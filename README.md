@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below. 
 
-![Network Diagram](Projects/Diagrams/elk.png)
+![Network Diagram](https://github.com/stephen1288/Projects/blob/main/Diagrams/Cloud%20Security.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the roles file may be used to install only certain pieces of it, such as Filebeat.
 
